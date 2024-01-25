@@ -1,0 +1,20 @@
+Student { 
+	color: white; 
+	background-color : rgb(48, 47, 80); 
+	width: 100%; 
+    text-align: center ;
+} 
+heading { 
+    text-align: center;
+	color: green; 
+	font-size : 40px; 
+	background-color : powderblue; 
+} 
+heading, Name, Email, Address,Roll, Branch { 
+	display : block; 
+    justify-content: center;
+} 
+Name { 
+	font-size : 25px; 
+	font-weight : bold; 
+} 
